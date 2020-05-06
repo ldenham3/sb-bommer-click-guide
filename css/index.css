@@ -2,3 +2,8 @@
 	width: 600px;
 	height: 400px;
 }
+
+.circle {
+	width: 200px !important;
+	height: 100px !important;
+}
